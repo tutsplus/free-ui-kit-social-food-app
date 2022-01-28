@@ -7,4 +7,4 @@ Download this free UI Kit for Figma, use whichever UI components you need, save 
 
 More [information available on Tuts+.](https://webdesign.tutsplus.com/articles/free-figma-ui-kit-social-food-app--cms-39838)
 
-![https://github.com/tutsplus/Free-UI-Kit-Social-Food-App/blob/main/main-cover.jpg?raw=true](cover)
+!(https://github.com/tutsplus/Free-UI-Kit-Social-Food-App/blob/main/main-cover.jpg?raw=true)
